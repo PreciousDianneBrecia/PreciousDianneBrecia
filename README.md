@@ -4,11 +4,11 @@ I'm Precious Dianne V. Brecia, a BS Information Technology student. I am passion
 
 ### 🎓 Education
 - Bachelor of Science in Information Technology
-- New Era University
-- 2024–Present
+    New Era University
+    2024–Present
 
 ### 📜 Certification 
-[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/83a8e820098d4d05968a999a77d78420)
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/83a8e820098d4d05968a999a77d78420)
 
 ### 💻 Skillset
 - Programming: Java, HTML/CSS, JavaScript  
