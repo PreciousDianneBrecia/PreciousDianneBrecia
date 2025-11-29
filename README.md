@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello there, I'm Precious Dianne Brecia ! 👋 👋
 
 I'm Precious Dianne V. Brecia, a **BS Information Technology** student. I am passionate about technology, programming, and finding creative solutions to challenging problems.  
 
