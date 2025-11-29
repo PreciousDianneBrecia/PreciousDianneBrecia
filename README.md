@@ -1,10 +1,10 @@
 ## Hello there 👋
 
-I'm Precious Dianne V. Brecia, a BS Information Technology student. I am passionate about technology, programming, and finding creative solutions to challenging problems.  
+I'm Precious Dianne V. Brecia, a **BS Information Technology** student. I am passionate about technology, programming, and finding creative solutions to challenging problems.  
 
 ### 🎓 Education
-- Bachelor of Science in Information Technology
-    New Era University
+- Bachelor of Science in Information Technology<br>
+    New Era University<br>
     2024–Present
 
 ### 📜 Certification 
